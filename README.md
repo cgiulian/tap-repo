@@ -1,2 +1,1 @@
-# tap-repo
- Repository for TAP Applicaions
+Sample org structure for application catalog
